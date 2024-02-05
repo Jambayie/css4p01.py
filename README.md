@@ -1,2 +1,2 @@
 
-python codes for IMDB Data; question 1-12
+python codes for IMDB Data; questions 1-12
